@@ -2,6 +2,7 @@
 Learning Python, ordered in time investment & ramp sequence
 
 @targ 	15min/day until sequence complete
+
 @post	add Python to resume & LinkedIn Skill
 
 1. Microsoft (quick)
